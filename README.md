@@ -83,7 +83,7 @@ I gained hands-on experience in high speed hardware shematic design and PCB layo
   This project involved designing and developing complete USB to EtherCAT Adapter Board using KiCad.It focused on schematic capture,component selection,PCB layout, and generating fabrication-ready manufacturing outputs including gerber files,drill files, and detailed Bill of Materials(BOM) for production.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/VELUGU-SOUJANYA-g6-pcb/blob/572d28fa9d0c55d316c9c8bd021c150fa384daec/Course%20report/Project%20Report.docx" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/velugusoujanya/USB_to_EtherCAT_Adapter/blob/781d8199e39be5e6d16b2fab533f2c2767820aa6/Project%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
